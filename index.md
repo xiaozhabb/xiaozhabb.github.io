@@ -1,11 +1,13 @@
-###Personal Information
-####Name:SUN Ruihan
-####Education:B.E. in Electronic Information Science and Technology,China University of Mining and Technology  
-####Email: 15605203952@163.com
-####Tel: +86 15605203952
+### Personal Information
+#### Name:SUN Ruihan
+#### Education:B.E. in Electronic Information Science and Technology,China University of Mining and Technology  
+#### Email: 15605203952@163.com
+#### Tel: +86 15605203952
 
 
-###News
+### News
 1.Graduated from CUMT!
 
-###Research Interests
+### Research Interests
+- Adversarial Deep Learning
+- Image Translation
